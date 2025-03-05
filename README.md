@@ -1,5 +1,5 @@
 
-# ainetproject
+# Applications for Internet Project
 
 Web application to simulate an Online ticket office, developed for the IPLeiria Computer Engineering course.
 =======
